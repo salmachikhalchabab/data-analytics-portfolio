@@ -13,7 +13,7 @@ An interactive sales performance dashboard built in **Power BI** using the popul
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
