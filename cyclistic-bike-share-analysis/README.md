@@ -69,7 +69,6 @@ The goal was to analyze 12 months of bike-share trip data to understand **how ca
 
 ```
 📁 cyclistic-bike-share-analysis/
-├── 📊 Cyclistic_Dashboard.pbix       ← Power BI file
 ├── 📁 screenshots/
 │   ├── page1.png
 │   └── page2.png
